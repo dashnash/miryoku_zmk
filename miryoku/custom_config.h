@@ -2,4 +2,4 @@
 // https://github.com/manna-harbour/miryoku
 #include <dt-bindings/zmk/pointing.h>
 
-#define CONFIG_ZMK_POINTING_Y
+CONFIG_ZMK_POINTING=y
